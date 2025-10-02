@@ -1,10 +1,3 @@
-"""
-BFS Traversal of a Planet Graph
-Author: Your Name
-Description: This script performs a breadth-first search (BFS) traversal
-             on a graph of planets represented as an adjacency list.
-"""
-
 from collections import deque
 
 # Graph represented as an adjacency list
